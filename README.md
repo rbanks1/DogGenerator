@@ -5,6 +5,8 @@ Written in P5.JS by Richard Banks. Copyright 2020.
 
 ![Just one dog](https://github.com/rbanks1/DogGenerator/blob/master/images/Dog001.png?raw=true)
 
+![Many dogs](https://github.com/rbanks1/DogGenerator/blob/master/images/Dogs001.png?raw=true)
+![Many dogs](https://github.com/rbanks1/DogGenerator/blob/master/images/Dogs002.png?raw=true)
 ![Many dogs](https://github.com/rbanks1/DogGenerator/blob/master/images/Dogs003.png?raw=true)
 
 More to come...
